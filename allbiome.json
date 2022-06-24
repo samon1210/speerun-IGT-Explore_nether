@@ -1,0 +1,15 @@
+{
+    "id": "explore_nether",
+    "name": "explore_nether",
+    "version": ">=1.13",
+    "src_category": "mcce#Obtain_Item",
+    "conditions": [
+        [
+            {
+                "type": "achieve_advancement",
+                "name": "explore_nether",
+                "advancement": "minecraft:nether/explore_nether"
+            }
+        ]
+    ]
+}
